@@ -4,9 +4,6 @@ seo-description: Device Graph data is available in Profile Link as a merge rule 
 seo-title: Audience Manager - Profile Link
 title: Audience Manager - Profile Link
 uuid: cebf40e5-9f0c-4e59-b4a7-73696fa2dadc
-index: y
-internal: n
-snippet: y
 ---
 
 # Audience Manager - Profile Link{#audience-manager-profile-link}

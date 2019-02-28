@@ -4,9 +4,6 @@ seo-description: How the Device Graph analyzes deterministic and probabilistic d
 seo-title: Deterministic and probabilistic links
 title: Deterministic and probabilistic links
 uuid: 00693a0a-f73d-460d-84a4-b7c745b9fe0a
-index: y
-internal: n
-snippet: y
 ---
 
 # Deterministic and probabilistic links{#deterministic-and-probabilistic-links}

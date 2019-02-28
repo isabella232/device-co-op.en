@@ -4,9 +4,6 @@ seo-description: Descriptions and answers to common questions about the Identity
 seo-title: FAQ
 title: FAQ
 uuid: 490566e1-4d35-468c-8389-678f9ff02cc8
-index: y
-internal: n
-snippet: y
 ---
 
 # FAQ{#faq}

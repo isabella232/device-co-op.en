@@ -4,9 +4,6 @@ seo-description: About known devices in the Device Graph.
 seo-title: Known devices
 title: Known devices
 uuid: 53c21105-45b1-4bed-a473-d3ccc4bae965
-index: y
-internal: n
-snippet: y
 ---
 
 # Known devices{#known-devices}

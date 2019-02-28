@@ -4,9 +4,6 @@ seo-description: The People metric is the count of people (or groups of devices)
 seo-title: People metric
 title: People metric
 uuid: 8e731779-044d-4d31-a19a-f579a9c8c471
-index: y
-internal: n
-snippet: y
 ---
 
 # People metric{#people-metric}

@@ -7,7 +7,7 @@ user-guide: null
 
 # Table of Contents {#table-of-contents}
 
-+ [Adobe Experience Cloud Device Co-op Documentation](mcdc-home.md)
++ [Adobe Experience Cloud Device Co-op Documentation](mcdc-home.md) 
 + [About the Device Co-op](mcdc-about/mcdc-about.md)
    + [Overview](mcdc-about/mcdc-overview.md)
    + [Membership requirements](mcdc-about/mcdc-requirements.md)

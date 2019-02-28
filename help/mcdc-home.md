@@ -4,9 +4,6 @@ seo-description: null
 seo-title: Adobe Experience Cloud Device Co-op Documentation
 title: Adobe Experience Cloud Device Co-op Documentation
 uuid: ec951e20-8736-4d42-b5e5-3e9abfc6820d
-index: y
-internal: n
-snippet: y
 ---
 
 # Adobe Experience Cloud Device Co-op Documentation{#adobe-experience-cloud-device-co-op-documentation}

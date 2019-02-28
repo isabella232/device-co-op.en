@@ -4,9 +4,6 @@ seo-description: The Adobe Experience Cloud Device Co-op is a program that lets 
 seo-title: Overview
 title: Overview
 uuid: 9e2502db-0dc6-4b0f-965f-71894fb1f9d4
-index: y
-internal: n
-snippet: y
 ---
 
 # Overview{#overview}
