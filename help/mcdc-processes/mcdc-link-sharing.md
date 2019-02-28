@@ -4,9 +4,6 @@ seo-description: About link sharing in the Device Graph.
 seo-title: Link sharing in the Device Graph
 title: Link sharing in the Device Graph
 uuid: 6c7202f0-c6d9-48a4-82ad-ee57d7a518a0
-index: y
-internal: n
-snippet: y
 ---
 
 # Link sharing in the Device Graph{#link-sharing-in-the-device-graph}

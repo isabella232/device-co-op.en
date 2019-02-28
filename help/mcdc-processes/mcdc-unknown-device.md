@@ -4,9 +4,6 @@ seo-description: When a person has devices that are not used to interact with yo
 seo-title: Unknown devices
 title: Unknown devices
 uuid: 18e69dad-bdb3-4ac1-a690-374aba1aa0a6
-index: y
-internal: n
-snippet: y
 ---
 
 # Unknown devices{#unknown-devices}

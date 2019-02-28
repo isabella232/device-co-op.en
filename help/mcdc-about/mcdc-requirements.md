@@ -4,9 +4,6 @@ seo-description: Your company must meet these minimum standards before you can s
 seo-title: Membership requirements
 title: Membership requirements
 uuid: 4295fa4e-1b9e-4323-bb79-48e548ca1167
-index: y
-internal: n
-snippet: y
 ---
 
 # Membership requirements{#membership-requirements}

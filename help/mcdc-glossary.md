@@ -4,9 +4,6 @@ seo-description: Glossary of terms used in the Device Co-op.
 seo-title: Glossary of Device Co-op terms
 title: Glossary of Device Co-op terms
 uuid: 55a8b7f0-78bd-4ed3-b90c-1e9acab6b866
-index: y
-internal: n
-snippet: y
 ---
 
 # Glossary of Device Co-op terms{#glossary-of-device-co-op-terms}

@@ -4,9 +4,6 @@ seo-description: Learn how to use Device Co-op data in Adobe Target activities.
 seo-title: Target - A/B tests, multivariate tests, and experience targeting
 title: Target - A/B tests, multivariate tests, and experience targeting
 uuid: c1b478a4-812e-41ee-913f-29666c5c7ec4
-index: y
-internal: n
-snippet: y
 ---
 
 # Target - A/B tests, multivariate tests, and experience targeting{#target-a-b-tests-multivariate-tests-and-experience-targeting}
