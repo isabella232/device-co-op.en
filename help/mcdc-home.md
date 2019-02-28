@@ -13,7 +13,7 @@ snippet: y
 
 The [!DNL Adobe Experience Cloud] [!DNL Device Co-op] is a digital cooperative where participating customers share device link information. The [!DNL Experience Cloud] [!DNL Device Co-op] processes this data to form device clusters. These clusters represent a group of devices used by an unknown person. The [!DNL Device Co-op] shares these clusters among its members, which helps them deliver valuable and consistent cross-device experiences to their customers.
 
-<a id="section_535A849B2BF14221BD78C968CC02732D"></a>
+<!-- <a id="section_535A849B2BF14221BD78C968CC02732D"></a> -->
 
 <table id="table_5E612F746A704FE095B809A013EE977F" class="simpletable"> 
  <tbody> 
