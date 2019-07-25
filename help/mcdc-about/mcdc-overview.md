@@ -15,8 +15,8 @@ The Adobe Experience Cloud Device Co-op is a program that lets participants work
 The Device Co-op allows participants to provide their consumers with a better, more consistent content experience as they migrate across devices. It does this by establishing links between a group of devices used by unknown consumers. This technology helps marketers understand and respond to consumer behaviors across devices. The results provide more accurate website engagement metrics, more personalized content, and more targeted advertising experiences across search, display, and social. Participation in [!DNL Adobe Experience Cloud] Device Co-op helps our members improve:
 
 * **Customer understanding:** Traditional reporting can reveal insights for a specific device. But, devices and channels don't buy things — people do. With better reporting, the Device Co-op helps analysts and marketers answer the real people-centric questions their business is asking. 
-* **Content personalization:** Consumers who don't log into a brand's website or app usually receive an experience that's linked to the device they're using at that moment. The Device Co-op helps marketers deliver consistent and valuable experiences based on information a brand has about a person, and not just the device they're using. 
-* **Ad spend efficiency:** The Device Co-op helps save marketing budgets by focusing display advertising on people, not devices. Because frequency caps typically apply to a single device, a limit of 5 ads per consumer can easily turn into 5 ads per device. With the Device Co-op, marketers can boost their ROI by targeting the person, not the device. 
+* **Content personalization:** Consumers who don't log into a brand's website or app usually receive an experience that's linked to the device they're using at that moment. The Device Co-op helps marketers deliver consistent and valuable experiences based on information a brand has about a person, and not just the device they're using.
+* **Ad spend efficiency:** The Device Co-op helps save marketing budgets by focusing display advertising on people, not devices. Because frequency caps typically apply to a single device, a limit of 5 ads per consumer can easily turn into 5 ads per device. With the Device Co-op, marketers can boost their ROI by targeting the person, not the device.
 * **Retargeting Across Devices:** Reach your consumers via the power of retargeting unlocked across the mobiles, tablets, browsers, and other devices they use everyday. Advertising is dramatically more effective if you can stay front of mind, and cross device retargeting allows your brand to do exactly that.
 
 <!--
@@ -28,7 +28,7 @@ we may not want to share info in this with customers who have not signed. Also, 
 
 In the [!DNL Device Co-op], [!DNL Adobe]:
 
-* **Is a data steward: **Device Co-op members do not share data directly with each other. Instead, [!DNL Adobe], acts as a broker to make device link data available to the co-op through the [!DNL Device Graph]. Device Co-op members get to work with this data through features in their enabled [!DNL Experience Cloud] solutions. 
+* **Is a data steward: **Device Co-op members do not share data directly with each other. Instead, [!DNL Adobe], acts as a broker to make device link data available to the co-op through the [!DNL Device Graph]. Device Co-op members get to work with this data through features in their enabled [!DNL Experience Cloud] solutions.
 
 * **Believes in data fairness:** Equitable data sharing is an important concept in the Device Co-op. All [!DNL Device Co-op] members receive value relative to what they contribute. If you've never interacted with an anonymous person through a site visit or ad impression, you won't get any information about their devices in the [!DNL Device Graph]. The Device Co-op helps brands recognize familiar consumers using unfamiliar devices. 
 

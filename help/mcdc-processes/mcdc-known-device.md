@@ -47,7 +47,7 @@ The following methods are the more common ways a device qualifies as a known dev
 
 **Marketplace**
 
-* Purchasing segment data from Audience Marketplace. 
+* Purchasing segment data from Audience Marketplace.
 * From purchasing data from a third-party data provider.
 
 **Advertising**
