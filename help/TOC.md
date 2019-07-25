@@ -12,6 +12,7 @@ user-guide-title: Device Co-op User Guide
    + [Overview](about/overview.md)
    + [Membership requirements](about/requirements.md)
 + About the Device Graph {#device-graph}
+   + [Device Graph Overview](processes/device-graph-overview.md)
    + [Deterministic and probabilistic links](processes/links.md)
    + [Link Sharing in the Device Graph](processes/link-sharing.md)
    + [Known devices](processes/known-device.md)
