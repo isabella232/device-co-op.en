@@ -14,11 +14,11 @@ In the Device Graph, we have the concept of a *`known device`*. A known device i
 
 >[!NOTE]
 >
->In the [!DNL Adobe Experience Cloud Device Co-op], terms such as *`device`*, *`person`*, *`identity`* etc. have specific meanings. For example, "device" can refer to physical hardware such as a phone or tablet and the applications that run on that hardware. See the [glossary](../mcdc-glossary.md#glossgroup-0f47d7fbd76c4759801f565f341a386c) for definitions.
+>In the [!DNL Adobe Experience Cloud Device Co-op], terms such as *`device`*, *`person`*, *`identity`* etc. have specific meanings. For example, "device" can refer to physical hardware such as a phone or tablet and the applications that run on that hardware. See the [glossary](../glossary.md#glossgroup-0f47d7fbd76c4759801f565f341a386c) for definitions.
 
 ## Supporting goals with the known device {#section-80deae33660e4280ac65c659ceff5601}
 
-The known device concept supports a few goals essential to the creation and maintenance of an effective [!DNL Device Co-op] program. A known device is one that a [!DNL Device Co-op] member knows about from some interaction with a consumer (e.g., a site visit or by using a mobile app). Based on these actions, the [!DNL Device Graph] links the known devices of a [!DNL Device Co-op] member to devices contributed by other [!DNL Device Co-op] members. These links can be [deterministic or probabilistic](../mcdc-processes/mcdc-links.md#concept-58bb7ab25f904f5f98d645e35205c931). This benefits [!DNL Device Co-op] members because they receive:
+The known device concept supports a few goals essential to the creation and maintenance of an effective [!DNL Device Co-op] program. A known device is one that a [!DNL Device Co-op] member knows about from some interaction with a consumer (e.g., a site visit or by using a mobile app). Based on these actions, the [!DNL Device Graph] links the known devices of a [!DNL Device Co-op] member to devices contributed by other [!DNL Device Co-op] members. These links can be [deterministic or probabilistic](../processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931). This benefits [!DNL Device Co-op] members because they receive:
 
 * More data about their known devices. 
 * New information about other, linked devices.
@@ -102,4 +102,4 @@ In this example, Brand B has 100 site visitors each month and starts a new cross
 
 >[!MORE_LIKE_THIS]
 >
->* [Unknown Devices](../mcdc-processes/mcdc-unknown-device.md#concept-95090d341cdc4c22ba4319d79d8f6e40)
+>* [Unknown Devices](../processes/unknown-device.md#concept-95090d341cdc4c22ba4319d79d8f6e40)

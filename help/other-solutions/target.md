@@ -16,7 +16,7 @@ You cannot use Device Co-op data in Automated Personalization activities, Recomm
 
 >[!NOTE]
 >
->Ensure that you have the required version of `mbox.js`. You can use any version of `at.js`. For more information, see [Membership Requirements](../mcdc-about/mcdc-requirements.md#concept-31d3d165d22546afbedf023d32ad3a43).
+>Ensure that you have the required version of `mbox.js`. You can use any version of `at.js`. For more information, see [Membership Requirements](../about/requirements.md#concept-31d3d165d22546afbedf023d32ad3a43).
 
 ## Deliver relevant content regardless of the device {#section-bba8d41e96914c82a6d267a54f776354}
 
@@ -38,7 +38,7 @@ With the Device Co-op, content delivery and reporting is done at the â€œpeopleâ€
 
 Without Device Co-op data, you might determine that a particular activity is the winner; however, because reporting is more accurate with the Device Co-op, another activity might actually have a higher conversion rate, and, therefore, be the winner.
 
-For more information on this concept, see [Analytics: People Metric](../mcdc-other-solutions/mcdc-people.md#concept-8c57cd3904974e078d7fbf84ac9c2d63).
+For more information on this concept, see [Analytics: People Metric](../other-solutions/people.md#concept-8c57cd3904974e078d7fbf84ac9c2d63).
 
 ## Use Device Co-op data per activity {#section-fb46fae482654023abb1a1e26564db9a}
 

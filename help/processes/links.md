@@ -16,7 +16,7 @@ The [!DNL Device Graph] analyzes deterministic and probabilistic data to build a
 
 >[!NOTE]
 >
->In the Adobe Experience Cloud Device Co-op, terms such as *device*, *person*, and *identity* have specific meanings. For example, *device* can refer to physical hardware such as a phone or tablet and the applications that run on that hardware. See the [glossary](../mcdc-glossary.md#glossgroup-0f47d7fbd76c4759801f565f341a386c) for definitions.
+>In the Adobe Experience Cloud Device Co-op, terms such as *device*, *person*, and *identity* have specific meanings. For example, *device* can refer to physical hardware such as a phone or tablet and the applications that run on that hardware. See the [glossary](../glossary.md#glossgroup-0f47d7fbd76c4759801f565f341a386c) for definitions.
 
 ## What are links? {#section-2df4c6f01eba49369993146df0661f13}
 

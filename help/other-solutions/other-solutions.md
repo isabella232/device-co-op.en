@@ -10,6 +10,6 @@ uuid: cddca1df-edf1-417a-84b5-340dfe9cccf9
 
 Device Graph data appears in new features, reports, or additional data in selected Experience Cloud solutions. These include Analytics, Audience Manager, Media Optimizer, and Target.
 
-* [People metric](mcdc-people.md)
-* [Audience Manager - Profile Link](mcdc-proflie-link.md)
-* [Target - A/B tests, multivariate tests, and experience targeting](mcdc-target.md)
+* [People metric](people.md)
+* [Audience Manager - Profile Link](proflie-link.md)
+* [Target - A/B tests, multivariate tests, and experience targeting](target.md)

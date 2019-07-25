@@ -14,7 +14,7 @@ The [!DNL Device Graph] shares deterministic and probabilistic links with differ
 
 ## Device Graph summary review {#section-7858e9f61b5644c981ffb53626fcc19d}
 
-Before getting started, let's take a moment to review how the [!DNL Device Graph] works. Members of the [!DNL Device Co-op] send data to the [!DNL Device Graph]. The [!DNL Device Graph] uses this data to construct a person's identity from [deterministic and probabilistic links](../mcdc-processes/mcdc-links.md#concept-58bb7ab25f904f5f98d645e35205c931) between devices. As a [!DNL Device Co-op] participant, these links provide insight about the relationship between your authenticated users, other users, and their devices. Let's take a look at how this works in the section below.
+Before getting started, let's take a moment to review how the [!DNL Device Graph] works. Members of the [!DNL Device Co-op] send data to the [!DNL Device Graph]. The [!DNL Device Graph] uses this data to construct a person's identity from [deterministic and probabilistic links](../processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931) between devices. As a [!DNL Device Co-op] participant, these links provide insight about the relationship between your authenticated users, other users, and their devices. Let's take a look at how this works in the section below.
 
 ## Link sharing example {#section-cb410d827cf14f76bc9b0bd4d31ed767}
 
@@ -47,4 +47,4 @@ Maintaining consumer privacy and data integrity for [!DNL Device Co-op] members 
 
 ## Next steps {#section-ac6e61f1eb6e45b1bb4be8ece39147c7}
 
-Reading the documentation on identity, linking, and link sharing should give you a good sense of how the [!DNL Device Graph] assembles data internally. As a next step, we recommend taking a look at our documentation that describes how the concept of a *`known device`* delivers cross-device links to Device Co-op members. See [Known Devices](../mcdc-processes/mcdc-known-device.md#concept-8e87c276819a48bfac5cef10b45216d1) and [Unknown Devices](../mcdc-processes/mcdc-unknown-device.md#concept-95090d341cdc4c22ba4319d79d8f6e40). 
+Reading the documentation on identity, linking, and link sharing should give you a good sense of how the [!DNL Device Graph] assembles data internally. As a next step, we recommend taking a look at our documentation that describes how the concept of a *`known device`* delivers cross-device links to Device Co-op members. See [Known Devices](../processes/known-device.md#concept-8e87c276819a48bfac5cef10b45216d1) and [Unknown Devices](../processes/unknown-device.md#concept-95090d341cdc4c22ba4319d79d8f6e40). 
