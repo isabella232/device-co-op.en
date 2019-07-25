@@ -32,4 +32,4 @@ The [!DNL Device Graph] tries to be inclusive as possible when classifying devic
 
 >[!MORE_LIKE_THIS]
 >
->* [Known Devices](../mcdc-processes/mcdc-known-device.md#concept-8e87c276819a48bfac5cef10b45216d1)
+>* [Known Devices](../processes/known-device.md#concept-8e87c276819a48bfac5cef10b45216d1)

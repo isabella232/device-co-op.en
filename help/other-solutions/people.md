@@ -42,7 +42,7 @@ The People metric is the count of people (or groups of devices) based on Adobe's
   </tr> 
   <tr> 
    <td colname="col1"> <p>Segmentation considerations </p> </td> 
-   <td colname="col2"> <p> When you use segments with the People metric, the metric reporting may be dramatically lower than expected. </p> <p>See <a href="../mcdc-other-solutions/mcdc-people.md#section-d03525420dbe48379fd95b230ef05885" format="dita" scope="local"> Using the People Metric with Segments</a>. </p> </td> 
+   <td colname="col2"> <p> When you use segments with the People metric, the metric reporting may be dramatically lower than expected. </p> <p>See <a href="../other-solutions/people.md#section-d03525420dbe48379fd95b230ef05885" format="dita" scope="local"> Using the People Metric with Segments</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>

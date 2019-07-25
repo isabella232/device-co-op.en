@@ -27,15 +27,15 @@ As brands pitch in their piece of the of the cross-device puzzle through anonymi
 
 **How does the [!DNL Device Co-op] link devices?**
 
-See [Deterministic and Probabilistic Links](mcdc-processes/mcdc-links.md#concept-58bb7ab25f904f5f98d645e35205c931).
+See [Deterministic and Probabilistic Links](processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931).
 
 **What data do participants provide [!DNL Adobe]?**
 
-See [Consumer Opt-Out Tool, Privacy, and the Device Graph](mcdc-privacy.md#concept-fa1346e6b95a484eaeafc9bebe3cd6be).
+See [Consumer Opt-Out Tool, Privacy, and the Device Graph](privacy.md#concept-fa1346e6b95a484eaeafc9bebe3cd6be).
 
 **What data is shared between [!DNL Device Co-op] members?**
 
-See [Link Sharing in the Device Graph](mcdc-processes/mcdc-link-sharing.md#concept-7168053105a94649a3f092d375d79eaf).
+See [Link Sharing in the Device Graph](processes/link-sharing.md#concept-7168053105a94649a3f092d375d79eaf).
 
 <!--
 Removed at Asa's request.
@@ -45,7 +45,7 @@ Removed at Asa's request.
 
 **Can a [!DNL Device Co-op] member see links to devices they have never seen before?**
 
-No. Device Co-op members can only gain data based on devices that have visited one of their brand’s web properties. See [Known Devices](mcdc-processes/mcdc-known-device.md#concept-8e87c276819a48bfac5cef10b45216d1) and [Unknown Devices](mcdc-processes/mcdc-unknown-device.md#concept-95090d341cdc4c22ba4319d79d8f6e40).
+No. Device Co-op members can only gain data based on devices that have visited one of their brand’s web properties. See [Known Devices](processes/known-device.md#concept-8e87c276819a48bfac5cef10b45216d1) and [Unknown Devices](processes/unknown-device.md#concept-95090d341cdc4c22ba4319d79d8f6e40).
 
 **Will I need to share any of my company's marketing information?**
 
@@ -57,7 +57,7 @@ No. All personally identifiable information is hashed before it’s brought into
 
 **Do smaller brands who contribute less device data to the Device Co-op get more value than what they put in, compared to their larger counterparts?**
 
-No. All members of the Cooperative get back value relative to what they put in. For instance, if a brand contributes 10,000 devices they will be able to receive additional linked device information associated with those 10,000. Looking at the big picture, this contribution may seem minimal; but as more and more brands of all sizes join, the aggregated contribution is significant, and will provide the missing link for many devices that many other, perhaps larger, brands are looking for. See [Fairness and the Known Device](mcdc-processes/mcdc-known-device.md#section-0543188729d845d6b95db70b8b25e9f8).
+No. All members of the Cooperative get back value relative to what they put in. For instance, if a brand contributes 10,000 devices they will be able to receive additional linked device information associated with those 10,000. Looking at the big picture, this contribution may seem minimal; but as more and more brands of all sizes join, the aggregated contribution is significant, and will provide the missing link for many devices that many other, perhaps larger, brands are looking for. See [Fairness and the Known Device](processes/known-device.md#section-0543188729d845d6b95db70b8b25e9f8).
 
 **How will [!DNL Adobe] manage IP addresses if some countries consider an IP address as personal information?**
 

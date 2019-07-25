@@ -16,7 +16,7 @@ The program is a group of brands, all Adobe customers, who have agreed to share 
 
 **Deterministic Linking**
 
-Links a device to a person based on authentication (e.g., a logon by a person on a device). See [Deterministic and Probabilistic Links](mcdc-processes/mcdc-links.md#concept-58bb7ab25f904f5f98d645e35205c931)
+Links a device to a person based on authentication (e.g., a logon by a person on a device). See [Deterministic and Probabilistic Links](processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931)
 
 **Device**
 
@@ -24,7 +24,7 @@ In the context of the [!DNL Device Graph], *`device`* has a dual meaning. First,
 
 **Devices per Person**
 
-See [Device](mcdc-glossary.md#glossentry-5690d9a245634214b91890156e216950).
+See [Device](glossary.md#glossentry-5690d9a245634214b91890156e216950).
 
 **Device Advertising ID (DAID)**
 
@@ -36,8 +36,8 @@ The [!DNL Device Graph] is the set of all people and their associated devices. T
 
 **Linking**
 
-Grouping [devices](mcdc-glossary.md#glossentry-5690d9a245634214b91890156e216950) together through their touch-points.
+Grouping [devices](glossary.md#glossentry-5690d9a245634214b91890156e216950) together through their touch-points.
 
 **Probabilistic Linking**
 
-Links a device to a person algorithmically, based on characteristics such as browsing behavior, IP address, operating system. See [Deterministic and Probabilistic Links](mcdc-processes/mcdc-links.md#concept-58bb7ab25f904f5f98d645e35205c931). 
+Links a device to a person algorithmically, based on characteristics such as browsing behavior, IP address, operating system. See [Deterministic and Probabilistic Links](processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931). 
