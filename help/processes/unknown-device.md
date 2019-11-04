@@ -30,6 +30,6 @@ The [!DNL Device Graph] tries to be inclusive as possible when classifying devic
 
 * **Rule 3: ** If the previous do not apply, the device is unknown.
 
->[!MORE_LIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Known Devices](../processes/known-device.md#concept-8e87c276819a48bfac5cef10b45216d1)
