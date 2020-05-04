@@ -31,7 +31,7 @@ Applicants must use at least one of the following [!DNL Adobe]solutions:
 
 **Core services**
 
-Applicants must implement the [Experience Cloud ID Service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
+Applicants must implement the [Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/home.html).
 
 ## Adobe code library requirements {#section-931a3fca1ce54afd90b88ba032e75f05}
 
@@ -43,11 +43,11 @@ The following table lists the minimum versions of the code libraries or SDKs use
 
 **AppMeasurement (Flash)**
 
-Requires version 4.1. See [AppMeasurement for Flash, Flex, and AIR](https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/flash/).
+Requires version 4.1. See [AppMeasurement for Flash, Flex, and AIR](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/index.md).
 
 **AppMeasurement (JavaScript)**
 
-Requires version 1.5.4. See [AppMeasurement for Flash, Flex, and AIR](https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/flash/).
+Requires version 1.5.4. See [AppMeasurement for Flash, Flex, and AIR](https://docs.adobe.com/content/help/en/analytics/implementation/js/migrate-from-hcode.html).
 
 **Mobile SDKs**
 
@@ -56,12 +56,12 @@ Minimum mobile SDK requirements:
 * Android version 4.8.3. 
 * iOS version 4.8.5.
 
-Your SDK code must be enabled for the [!DNL Experience Cloud] ID service. Enable and download the latest SDK code for each app in your [Adobe Mobile Services](https://mobilemarketing.adobe.com/) account. See [Configure SDK Visitor ID Service Options](https://marketing.adobe.com/resources/help/en_US/mobile/?f=t_config_visitor.html).
+Your SDK code must be enabled for the [!DNL Experience Cloud] ID service. Enable and download the latest SDK code for each app in your [Adobe Mobile Services](https://mobilemarketing.adobe.com/) account. See [Configure SDK Visitor ID Service Options](https://docs.adobe.com/content/help/en/mobile-services/using/manage-app-settings-ug/configuring-app/t-config-visitor.html).
 
 For each SDK, use the appropriate `visitorSyncIdentifier` method that fits your needs. See:
 
-* [Android Experience Cloud ID Service Methods](https://marketing.adobe.com/resources/help/en_US/mobile/android/mc_methods.html) 
-* [iOS Experience Cloud ID Service Methods](https://marketing.adobe.com/resources/help/en_US/mobile/ios/?f=mc_methods.html)
+* [Android Experience Cloud ID Service Methods](https://docs.adobe.com/content/help/en/mobile-services/android/experience-cloud-android/mcvid.html) 
+* [iOS Experience Cloud ID Service Methods](https://docs.adobe.com/content/help/en/mobile-services/ios/exp-cloud-ios/mcvid.html)
 
 **VisitorAPI.js**
 

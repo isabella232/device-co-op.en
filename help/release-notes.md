@@ -10,4 +10,4 @@ uuid: 337d7eee-12b1-4ba4-a63b-3ccb88b825f7
 
 Feature releases, updates, or changes to the Device Co-op.
 
-These changes are also captured in the [Experience Cloud Release notes](https://marketing.adobe.com/resources/help/en_US/whatsnew/). See the [previous release notes](https://marketing.adobe.com/resources/help/en_US/whatsnew/c_legacy_releases.html) for older Experience Cloud announcements. 
+These changes are also captured in the [Experience Cloud Release notes](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html). See the Previous Release Notes section on this page for older Experience Cloud announcements.
