@@ -23,13 +23,13 @@ The [!DNL Adobe Experience Cloud] [!DNL Device Co-op] is a digital cooperative w
     </ul> </td> 
    <td colname="col2"> <p> <b>Release Notes</b> </p> 
     <ul id="ul_713F3E9DF0F84FE5981AC63D05948864"> 
-     <li id="li_09C1CD15823E4AD7856CE40BE848E03F">See the latest <a href="https://marketing.adobe.com/resources/help/en_US/whatsnew/" format="https" scope="external"> Experience Cloud Release Notes</a> for new features and fixes. </li> 
-     <li id="li_EA594E939ED14D7780178DEA8E1AED64">See the <a href="https://marketing.adobe.com/resources/help/en_US/whatsnew/?f=c_legacy_releases.html" format="https" scope="external"> previous release notes</a> for older announcements. </li> 
+     <li id="li_09C1CD15823E4AD7856CE40BE848E03F">See the latest <a href="https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html" format="https" scope="external"> Experience Cloud Release Notes</a> for new features and fixes. </li> 
+     <li id="li_EA594E939ED14D7780178DEA8E1AED64">See the <a href="https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html" format="https" scope="external"> previous release notes links</a> for older announcements. </li> 
     </ul> <p> <b>Experience Cloud Resources</b> </p> 
     <ul id="ul_E30EC96BDC624B5591F0470D430B7F41"> 
      <li id="li_F3A5CCFAE0F247CEB41A03CA8E03106B"> <a href="http://www.adobe.com/marketing-cloud.html" scope="external" format="http"> Adobe Experience Cloud</a> </li> 
      <li id="li_1938F7044F544481A6CC0F45CC22B80A"> <a href="http://helpx.adobe.com/learning.html?promoid=KAUDK" scope="external" format="http"> Adobe Training and Tutorials</a> </li> 
-     <li id="li_C71459E0D1464C05B8B9387C43541F17"> <a href="https://marketing.adobe.com/resources/help/en_US/home/index.html" scope="external" format="https"> Product Documentation Home</a> </li> 
+     <li id="li_C71459E0D1464C05B8B9387C43541F17"> <a href="https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html" scope="external" format="https"> Product Documentation Home</a> </li> 
     </ul> </td> 
   </tr> 
  </tbody> 

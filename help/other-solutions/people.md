@@ -26,19 +26,19 @@ The People metric is the count of people (or groups of devices) based on Adobe's
   </tr> 
   <tr> 
    <td colname="col1"> Metric Permissions </td> 
-   <td colname="col2"> <p>You can use the People metric only if you have been granted access to it. Administrators can<a href="https://marketing.adobe.com/resources/help/en_US/reference/groups-metrics.html" format="html" scope="external"> customize metrics permissions</a> in the Admin Tools. </p> </td> 
+   <td colname="col2"> <p>You can use the People metric only if you have been granted access to it. Administrators can<a href="https://docs.adobe.com/content/help/en/analytics/admin/user-product-management/customize-report-access/groups-metrics.html" format="html" scope="external"> customize metrics permissions</a> in the Admin Tools. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Mapping to IMS org </td> 
-   <td colname="col2"> <p>The People Metric will be enabled for all report suites that are <a href="https://marketing.adobe.com/resources/help/en_US/mcloud/map-report-suite.html" format="html" scope="external"> mapped to an IMSORG</a>. </p> </td> 
+   <td colname="col2"> <p>The People Metric will be enabled for all report suites that are <a href="https://docs.adobe.com/content/help/en/core-services/interface/about-core-services/report-suite-mapping.html" format="html" scope="external"> mapped to an IMSORG</a>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Analysis Projects / Tools </p> </td> 
-   <td colname="col2"> <p>Use the People metric in <span class="wintitle"> Analysis Workspace</span>, <span class="wintitle"> Ad Hoc Analysis</span>, <span class="wintitle"> Report Builder</span>, and via the API. You can use it wherever you would use the Unique Visitors metric, including Calculated Metrics. </p> <p>For example, create a revenue-per-person metric to replace a revenue-per-unique visitor metric. </p> <p>A <a href="https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/starter_projects.html" format="html" scope="external"> People project template</a> is available to get started using the People metric in Analysis Workspace. </p> </td> 
+   <td colname="col2"> <p>Use the People metric in <span class="wintitle"> Analysis Workspace</span>, <span class="wintitle"> Ad Hoc Analysis</span>, <span class="wintitle"> Report Builder</span>, and via the API. You can use it wherever you would use the Unique Visitors metric, including Calculated Metrics. </p> <p>For example, create a revenue-per-person metric to replace a revenue-per-unique visitor metric. </p> <p>A <a href="https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html" format="html" scope="external"> People project template</a> is available to get started using the People metric in Analysis Workspace. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Turn on bot rules </p> </td> 
-   <td colname="col2"> <p>Adobe recommends that you turn on <a href="https://marketing.adobe.com/resources/help/en_US/reference/bot_rules.html" format="html" scope="external"> Bot Rules</a>, especially when using the People metric. </p> <p>When a bot crawls your website, it artificially increases your Unique Visitor count. Removing bot traffic from your report suite provides a more accurate measurement of activity on your digital properties, both in terms of Unique Visitors and People. </p> <p>To do so, navigate to <span class="uicontrol"> Analytics</span> &gt; <span class="uicontrol"> Admin</span> &gt; <span class="uicontrol"> Report Suites</span>. Select the correct report suite, and then go to <span class="uicontrol"> Edit Settings</span> &gt; <span class="uicontrol"> General</span> &gt; <span class="uicontrol"> Bot Rules</span>. </p> </td> 
+   <td colname="col2"> <p>Adobe recommends that you turn on <a href="https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/bot-removal/bot-rules.html" format="html" scope="external"> Bot Rules</a>, especially when using the People metric. </p> <p>When a bot crawls your website, it artificially increases your Unique Visitor count. Removing bot traffic from your report suite provides a more accurate measurement of activity on your digital properties, both in terms of Unique Visitors and People. </p> <p>To do so, navigate to <span class="uicontrol"> Analytics</span> &gt; <span class="uicontrol"> Admin</span> &gt; <span class="uicontrol"> Report Suites</span>. Select the correct report suite, and then go to <span class="uicontrol"> Edit Settings</span> &gt; <span class="uicontrol"> General</span> &gt; <span class="uicontrol"> Bot Rules</span>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Segmentation considerations </p> </td> 
@@ -130,7 +130,7 @@ Only the number of people who qualify in both segments *`using a single device`*
 
 Also, using the *`Or`* operator is not recommended in this situation. Doing so would produce a count of people who saw one or the other, with no way of counting how many people qualify for both segments.
 
-See [Building Segments](https://marketing.adobe.com/resources/help/en_US/analytics/segment/seg_build.html) in the Segmentation help for more information.
+See [Building Segments](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-build.html) in the Segmentation help for more information.
 
 ## Device Types {#section-8ab378c84ff34574b9c20fecb3848a86}
 
@@ -146,7 +146,7 @@ The Device Co-op requires your digital properties to be instrumented using the E
 mcdc-people-metric-apply.xml
 -->
 
-In Analysis Workspace, create a [project](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/t_freeform_project.html), then drag the **[!UICONTROL People]** metric to the project table:
+In Analysis Workspace, create a [project](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/t-freeform-project.html), then drag the **[!UICONTROL People]** metric to the project table:
 
 ![](assets/people-metric.png)
 

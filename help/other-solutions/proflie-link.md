@@ -12,4 +12,4 @@ Device Graph data is available in Profile Link as a merge rule option. A merge r
 
 Profile Link works with cross-device data sources to identify and collect traits for authenticated site visitors. It includes the Profile Merge Rules feature. With Profile Merge Rules you get control over the data sets used for segmentation and can target a person accurately across multiple devices.
 
-See the [Profile Link documentation](https://marketing.adobe.com/resources/help/en_US/aam/profile-link-intro.html) for more information. 
+See the [Profile Link documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) for more information. 
